@@ -6,22 +6,18 @@
 ---
 
 ## 🔭 I’m currently working on
-- **iGradeU (Course Grade Predictor)** – an AI-powered tool that predicts student performance using Canvas, RateMyProfessor, and NLP.  
+- **Central (Church Management App)** – an AI-powered tool that predicts student performance using Canvas, RateMyProfessor, and NLP.  
 
 ## 🌱 I’m currently learning
 - Advanced algorithms (as a TA for Data Structures & Algorithms II)  
-- Scalable full-stack systems with Django + React  
+- Scalable full-stack systems with Django + React + PostgreSQL
 - Practical applications of AI in education & analytics  
 
-## 👯 I’m looking to collaborate on
-- Open-source projects in **EdTech**, **full-stack web apps**, or **AI/ML tools**  
-
----
-
 ## 🚀 Featured Projects
-- **[iGradeU – Course Grade Predictor](https://github.com/brianjeong727/iGradeU-CourseGradePredictor)** – AI-powered student performance predictor (*Django REST, React, OpenAI API*)  
-- **[Church Management Web App](https://github.com/brianjeong727/Church-Management-Web-App)** – Multi-tenant church platform with role-based dashboards (*React, Django, PostgreSQL*)  
-- **[Esports Portfolio Builder](https://github.com/brianjeong727/Esports-Portfolio-Builder)** – Gamer portfolio site with Riot Games API + analytics (*React, Django, Chart.js*)  
+- **[Central](https://github.com/brianjeong727/Central)** – Multi-tenant church platform with role-based dashboards (*React, Django, PostgreSQL*)
+- **[PRISM](https://github.com/brianjeong727/PRISM)** - 
+- **[iGradeU – Course Grade Predictor](https://github.com/brianjeong727/iGradeU-CourseGradePredictor)** – AI-powered student performance predictor (*Django REST, React, OpenAI API*)
+- 
 
 ---
 
