@@ -16,7 +16,6 @@
 ## 🚀 Featured Projects
 - **[Central](https://github.com/brianjeong727/Central)** – Multi-tenant church platform with role-based dashboards (*React, Django, PostgreSQL*)
 - **[PRISM](https://github.com/brianjeong727/PRISM)** - AI Integrated Incident Command Resource Management System - (*Django REST, React, Mistral AI, Supabase, PostgreSQL)
-- **[iGradeU – Course Grade Predictor](https://github.com/brianjeong727/iGradeU-CourseGradePredictor)** – AI-powered student performance predictor (*Django REST, React, OpenAI API*)
 
 ---
 
