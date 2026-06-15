@@ -49,7 +49,7 @@
   
   [→ chaeum-j-com.vercel.app](https://chaeum-j-com.vercel.app)
 
-  **[Personal Portfolio](https://github.com/brianjeong727/PersonalSite)** — check out my work in a visually stimulating way!
+  **[Personal Portfolio](https://github.com/brianjeong727/PersonalPortfolio)** — check out my work in a visually stimulating way!
   
   [→ brianjeong.vercel.app](https://brianjeong.vercel.app)
 
