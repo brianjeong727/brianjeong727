@@ -1,34 +1,36 @@
-# 👋 Hi, I'm Brian Jeong
+# Brian Jeong
 
-🎓 CS + Data Science @ University of Pittsburgh (Class of 2027)  
-💻 Aspiring Software Engineer
+CS + Data Science @ University of Pittsburgh (Class of 2027). I build full-stack
+products for communities I'm part of — and I reach for AI where it earns its place.
 
----
+Currently a Software Engineering Intern on the MLOps team at PNC Financial Services.
 
-## 🔭 I’m currently working on
-- **Central (Church Management App)** – Multi-tenant church platform with role-based dashboards (*React, Django, PostgreSQL*)
+## What I'm building
 
-## 🌱 I’m currently learning
-- Advanced algorithms (as a TA for Data Structures & Algorithms II)  
-- Scalable full-stack systems with Django + React + PostgreSQL
-- Practical applications of AI in education & analytics  
+**[Central](https://github.com/brianjeong727/Central)** — a church operating system.
+Multi-tenant platform replacing four disconnected tools (messaging, planning, worship
+prep) for a campus ministry. Live with 200+ users across Pitt and CMU.
+Built and owned end to end. *Next.js · Supabase · PostgreSQL · TypeScript*
+Worship-prep pipeline uses OCR (Tesseract.js) + the Anthropic API for slide generation.
 
-## 🚀 Featured Projects
-- **[Central](https://github.com/brianjeong727/Central)** – Multi-tenant church platform with role-based dashboards (*React, Django, PostgreSQL*)
-- **[PRISM](https://github.com/brianjeong727/PRISM)** - AI Integrated Incident Command Resource Management System - (*Django REST, React, Mistral AI, Supabase, PostgreSQL)
+**[PRISM](https://github.com/brianjeong727/PRISM)** — a real-time incident command
+system. Live unit tracking, searchable event timeline, and ambulance-depletion tracking
+for EMS/fire dispatch. Unit-status data feeds Mistral AI for engine/ambulance estimates.
+*React · Django · Supabase · PostgreSQL*
 
----
+## How I work
 
-## 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
+I lead with the problem, not the stack. I built Central because I understood a ministry's
+operations as well as I understood the code — I was its Finance & Operations Director.
+That's the through-line: I like solving real problems for real communities, and I can
+build the software end to end.
 
----
+## Stack
 
-## 🌐 Connect
-[LinkedIn](https://www.linkedin.com/in/brian-jeong-274a062aa/) • [Email](mailto:bjj46@pitt.edu)  
+Python · SQL · TypeScript · Java · C
+React · Next.js · Node.js · Django · PySpark
+PostgreSQL · Supabase · Docker · Git
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/brian-jeong-274a062aa/) · bjj46@pitt.edu
