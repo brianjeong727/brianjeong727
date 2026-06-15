@@ -22,7 +22,9 @@
   API for slide generation.
 
   [→ joincentral.app](https://joincentral.app)
-  
+
+  ## What I've Built
+    
   **[PRISM](https://github.com/brianjeong727/PRISM)** — an ICS resource management tool for incident commanders and EMS/fire crews. Dark operational UI purpose-built for
   high-stakes clarity: live unit tracking, AI-powered
   engine/ambulance estimates (Anthropic API), ambulance-depletion
@@ -30,7 +32,7 @@
   React · Django · Supabase · PostgreSQL · Anthropic API
   *React · Django · Supabase · PostgreSQL*
   
-  [→ prism-ics.vercel.app](https://prism-ics.verel.app)
+  [→ prism-ics.vercel.app](https://prism-ics.vercel.app)
   
   **[Chaeum 
   J.Com](https://github.com/brianjeong727/chaeum-j-com)** —
@@ -46,6 +48,10 @@
   Vercel. *Astro · TypeScript · Vercel*
   
   [→ chaeum-j-com.vercel.app](https://chaeum-j-com.vercel.app)
+
+  **[Personal Portfolio](https://github.com/brianjeong727/PersonalSite)** — Check out my work in a visually stimulating way!
+  
+  [brianjeong.vercel.app](https://brianjeong.vercel.app)
 
   ## How I work
   
