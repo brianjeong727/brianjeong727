@@ -20,6 +20,8 @@
   TypeScript*
   Worship-prep pipeline uses OCR (Tesseract.js) + the Anthropic
   API for slide generation.
+
+  [→ joincentral.app](https://joincentral.app)
   
   **[PRISM](https://github.com/brianjeong727/PRISM)** — an ICS resource management tool for incident commanders and EMS/fire crews. Dark operational UI purpose-built for
   high-stakes clarity: live unit tracking, AI-powered
@@ -27,6 +29,7 @@
   monitoring, and a searchable status timeline. Deployed.
   React · Django · Supabase · PostgreSQL · Anthropic API
   *React · Django · Supabase · PostgreSQL*
+  
   [→ prism-ics.vercel.app](https://prism-ics.verel.app)
   
   **[Chaeum 
@@ -41,6 +44,7 @@
   and an automated image optimization pipeline (JPEGs → WebP at
   build). Deployed static to
   Vercel. *Astro · TypeScript · Vercel*
+  
   [→ chaeum-j-com.vercel.app](https://chaeum-j-com.vercel.app)
 
   ## How I work
