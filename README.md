@@ -21,13 +21,14 @@
   Worship-prep pipeline uses OCR (Tesseract.js) + the Anthropic
   API for slide generation.
   
-  **[PRISM](https://github.com/brianjeong727/PRISM)** — a
-  real-time incident command
-  system. Live unit tracking, searchable event timeline, and
-  ambulance-depletion tracking
-  for EMS/fire dispatch. Unit-status data feeds Mistral AI for
-  engine/ambulance estimates.
+  **[PRISM](https://github.com/brianjeong727/PRISM)** — an ICS resource management tool for incident commanders and EMS/fire crews. Dark operational UI purpose-built for
+  high-stakes clarity: live unit tracking, AI-powered
+  engine/ambulance estimates (Anthropic API), ambulance-depletion
+  monitoring, and a searchable status timeline. Deployed.
+  React · Django · Supabase · PostgreSQL · Anthropic API
   *React · Django · Supabase · PostgreSQL*
+  [→ prism-ics.vercel.app](https://prism-ics.verel.app)
+  
   **[Chaeum 
   J.Com](https://github.com/brianjeong727/chaeum-j-com)** —
   marketing site for
